@@ -1,2 +1,12 @@
 # HLUplink-NintendoWii
-A port of Half-Life: Uplink for the Nintendo Wii
+A port of Half-Life: Uplink for the Nintendo Wii <br>
+NOTE: All sounds, maps, NPCs and code are custom but similar to the original game. <br>
+Requirements: <br>
+- A Nintendo Wii or Wii U (vWii) console with the homebrew channel <Br>
+- A Wii Pro Controller or Wii U Gamepad <br>
+- ```halflife.wad``` from a existing Half-Life 1 install <br>
+How to mount ```halflife.wad```: <br>
+1. Open Steam and select Half-Life <br>
+2. Right-click Half-Life and click Manage > Browse local files <br>
+3. Open the ```valve``` folder <br>
+4. Copy ```halflife.wad``` to the root folder of the SD card <br>
