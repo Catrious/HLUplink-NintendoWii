@@ -1,6 +1,7 @@
 # HLUplink-NintendoWii
 A port of Half-Life: Uplink for the Nintendo Wii <br>
-NOTE: All sounds, maps, NPCs and code are custom but similar to the original game. <br>
+WARNING: Erasing the save data also defaults the binds <br>
+NOTE: A existing Half-Life 1 install is required <br>
 Requirements: <br>
 - A Nintendo Wii or Wii U (vWii) console with the homebrew channel <Br>
 - A Wii Pro Controller or Wii U Gamepad <br>
