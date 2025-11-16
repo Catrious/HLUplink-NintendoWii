@@ -1,6 +1,7 @@
 # HLUplink-NintendoWii
 A port of Half-Life: Uplink for the Nintendo Wii <br>
 WARNING: Erasing the save data also defaults the binds <br>
+WARNING: The Half-Life 1 assets are from a Half-Life 1 25th Anniversary install, may not work with older installs <br>
 NOTE: A existing Half-Life 1 install is required <br>
 Requirements: <br>
 - A Nintendo Wii or Wii U (vWii) console with the homebrew channel <Br>
